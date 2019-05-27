@@ -11,8 +11,8 @@ Test your function using the string ‘supercalifragilisticexpialidocious’.
  */
 
 function sortString(str){
-    var arr = str.split('');
-    var sorted = arr.sort();
+    const arr = str.split('');
+    const sorted = arr.sort();
     return sorted.join('');
 }
 
