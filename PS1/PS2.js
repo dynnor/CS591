@@ -10,27 +10,27 @@ var Integer;
 function evaluate(x){
     str= x;
 
-    if(str[1] == "+"){
+    if(str[1] === "+"){
         var x = Number(str[0]);
         var y = Number(str[2]);
         return x + y;
     }
-    if(str[1] == "%"){
+    if(str[1] === "%"){
         var x = Number(str[0]);
         var y = Number(str[2]);
         return x % y;
     }
-    if(str[1] == "/"){
+    if(str[1] === "/"){
         var x = Number(str[0]);
         var y = Number(str[2]);
         return x / y;
     }
-    if(str[1] == "*"){
+    if(str[1] === "*"){
         var x = Number(str[0]);
         var y = Number(str[2]);
         return x * y;
     }
-    if(str[1] == "-"){
+    if(str[1] === "-"){
         var x = Number(str[0]);
         var y = Number(str[2]);
         return x - y;
