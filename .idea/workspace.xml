@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd59b585-308b-4837-8e64-e2f156501e99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ps4/models/access_token.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ps4/models/playlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ps4/routes/ps4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ps4/routes/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ps4/routes/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ps4/views/ps4.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ps4/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ps4/views/ps4.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ps4/views/index.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ps4/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ps4/routes/ps4.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ps4/routes/search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="48" lean-forward="true" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ps4/models/playlist.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ps4/bin/www">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-222" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ps4/models/access_token.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="15" column="82" lean-forward="true" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Pug File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PS1/PS1" />
+        <option value="$PROJECT_DIR$/PS1/JS3.js" />
+        <option value="$PROJECT_DIR$/PS1/PS3.js" />
+        <option value="$PROJECT_DIR$/PS1/PS1.js" />
+        <option value="$PROJECT_DIR$/PS1/PS2.js" />
+        <option value="$PROJECT_DIR$/PS2/PS1.js" />
+        <option value="$PROJECT_DIR$/PS2/P1.js" />
+        <option value="$PROJECT_DIR$/PS2/P2.js" />
+        <option value="$PROJECT_DIR$/PS2/P3.js" />
+        <option value="$PROJECT_DIR$/ps3/routes/index.js" />
+        <option value="$PROJECT_DIR$/PS3/ps3/views/index.jade" />
+        <option value="$PROJECT_DIR$/PS3/ps3/views/error.pug" />
+        <option value="$PROJECT_DIR$/PS3/ps3/views/layout.pug" />
+        <option value="$PROJECT_DIR$/PS3/ps3/views/index.pug" />
+        <option value="$PROJECT_DIR$/PS3/ps3/views/ps3c.pug" />
+        <option value="$PROJECT_DIR$/PS3/ps3/routes/ps3.js" />
+        <option value="$PROJECT_DIR$/PS3/ps3/views/ps3b.pug" />
+        <option value="$PROJECT_DIR$/PS3/ps3/app.js" />
+        <option value="$PROJECT_DIR$/PS3/ps3/views/ps3.pug" />
+        <option value="$PROJECT_DIR$/ps4/routes/server.js" />
+        <option value="$PROJECT_DIR$/ps4/models/access_token.js" />
+        <option value="$PROJECT_DIR$/ps4/views/ps4.pug" />
+        <option value="$PROJECT_DIR$/ps4/routes/index.js" />
+        <option value="$PROJECT_DIR$/ps4/app.js" />
+        <option value="$PROJECT_DIR$/ps4/routes/ps4.js" />
+        <option value="$PROJECT_DIR$/ps4/routes/search.js" />
+        <option value="$PROJECT_DIR$/ps4/models/playlist.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="540" />
+    <option name="y" value="40" />
+    <option name="width" value="1140" />
+    <option name="height" value="939" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591" type="462c0819:PsiDirectoryNode" />
+              <item name="PS1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591" type="462c0819:PsiDirectoryNode" />
+              <item name="ps4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591" type="462c0819:PsiDirectoryNode" />
+              <item name="ps4" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591" type="462c0819:PsiDirectoryNode" />
+              <item name="ps4" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591" type="462c0819:PsiDirectoryNode" />
+              <item name="ps4" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591" type="462c0819:PsiDirectoryNode" />
+              <item name="ps4" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591" type="462c0819:PsiDirectoryNode" />
+              <item name="ps4" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591" type="462c0819:PsiDirectoryNode" />
+              <item name="ps4" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.ps4">
+    <configuration name="P1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="P1.js" working-dir="$PROJECT_DIR$/PS2">
+      <method v="2" />
+    </configuration>
+    <configuration name="P2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="P2.js" working-dir="$PROJECT_DIR$/PS2">
+      <method v="2" />
+    </configuration>
+    <configuration name="P3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="P3.js" working-dir="$PROJECT_DIR$/PS2">
+      <method v="2" />
+    </configuration>
+    <configuration name="PS1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="PS1.js" working-dir="$PROJECT_DIR$/PS1">
+      <method v="2" />
+    </configuration>
+    <configuration name="PS2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="PS2.js" working-dir="$PROJECT_DIR$/PS1">
+      <method v="2" />
+    </configuration>
+    <configuration name="ps3" type="NodeJSConfigurationType" path-to-js-file="bin/www" working-dir="$PROJECT_DIR$/PS3/ps3">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser name="e5120d43-2c3f-47ef-9f26-65e539e05186" start="true" url="http://localhost:3000/" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <configuration name="ps4" type="NodeJSConfigurationType" path-to-js-file="ps4/bin/www" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser name="e5120d43-2c3f-47ef-9f26-65e539e05186" start="true" url="http://localhost:3000/" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.ps3" />
+      <item itemvalue="Node.js.ps4" />
+      <item itemvalue="Node.js.P1.js" />
+      <item itemvalue="Node.js.P2.js" />
+      <item itemvalue="Node.js.P3.js" />
+      <item itemvalue="Node.js.PS1.js" />
+      <item itemvalue="Node.js.PS2.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.PS2.js" />
+        <item itemvalue="Node.js.PS1.js" />
+        <item itemvalue="Node.js.P3.js" />
+        <item itemvalue="Node.js.P2.js" />
+        <item itemvalue="Node.js.P1.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd59b585-308b-4837-8e64-e2f156501e99" name="Default Changelist" comment="" />
+      <created>1558977493266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558977493266</updated>
+      <workItem from="1558977495383" duration="8076000" />
+      <workItem from="1559189238434" duration="2031000" />
+      <workItem from="1559223055666" duration="5930000" />
+      <workItem from="1559595117145" duration="449000" />
+      <workItem from="1559595694248" duration="581000" />
+      <workItem from="1559596282085" duration="2387000" />
+      <workItem from="1559664920670" duration="4424000" />
+      <workItem from="1559949081716" duration="9555000" />
+    </task>
+    <task id="LOCAL-00001" summary="Attempting to add files">
+      <created>1558978055069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558978055069</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Attempting to add files">
+      <created>1558978219832</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558978219832</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Only PS1 is complete. Still need to do 2 and 3">
+      <created>1558980270517</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558980270517</updated>
+    </task>
+    <task id="LOCAL-00004" summary="PS1 and PS2 are now complete">
+      <created>1558989416656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558989416656</updated>
+    </task>
+    <task id="LOCAL-00005" summary="branch">
+      <created>1559189321581</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559189321581</updated>
+    </task>
+    <task id="LOCAL-00006" summary="submit to gradescope">
+      <created>1559342823122</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559342823122</updated>
+    </task>
+    <task id="LOCAL-00007" summary="submit to gradescope">
+      <created>1559342877494</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559342877494</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <created>1559595726593</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559595726593</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test">
+      <created>1559595748455</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559595748455</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test">
+      <created>1559595879511</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1559595879511</updated>
+    </task>
+    <task id="LOCAL-00011" summary="just need to do part c">
+      <created>1559598784592</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1559598784592</updated>
+    </task>
+    <task id="LOCAL-00012" summary="just need to do part c">
+      <created>1559598830625</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1559598830625</updated>
+    </task>
+    <task id="LOCAL-00013" summary="submit to gradescope">
+      <created>1559683247336</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1559683247337</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33433000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="540" y="40" width="1140" height="939" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17605005" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49955317" weight="0.3293979" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33766234" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39905548" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3293979" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49955317" visible="true" weight="0.3293979" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50044686" side_tool="true" weight="0.3293979" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Attempting to add files" />
+    <MESSAGE value="Only PS1 is complete. Still need to do 2 and 3" />
+    <MESSAGE value="PS1 and PS2 are now complete" />
+    <MESSAGE value="branch" />
+    <MESSAGE value="test" />
+    <MESSAGE value="just need to do part c" />
+    <MESSAGE value="submit to gradescope" />
+    <MESSAGE value="ps4- Spotify API generating playlists" />
+    <option name="LAST_COMMIT_MESSAGE" value="ps4- Spotify API generating playlists" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PS1/PS1" />
+    <entry file="file://$PROJECT_DIR$/PS1/JS3.js" />
+    <entry file="file://$PROJECT_DIR$/PS2/P1.js" />
+    <entry file="file://$PROJECT_DIR$/PS2/P2.js" />
+    <entry file="file://$PROJECT_DIR$/PS2/P3.js" />
+    <entry file="file://$PROJECT_DIR$/PS3/routes/index.js" />
+    <entry file="file://$PROJECT_DIR$/PS3/app.js" />
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/index.jade" />
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/error.jade" />
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/layout.jade" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs411-a3_/routes/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/layout.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/ps3c.pug" />
+    <entry file="file://$PROJECT_DIR$/../cs411-a3_/routes/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/routes/ps3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/error.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="3" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/ps3.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS1/PS3.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS1/PS2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS1/PS1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps4/routes/server.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps4/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps4/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps4/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-222" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps4/models/access_token.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="15" column="82" lean-forward="true" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps4/routes/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="48" lean-forward="true" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps4/routes/ps4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps4/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps4/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps4/views/ps4.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps4/models/playlist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
