@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd59b585-308b-4837-8e64-e2f156501e99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ps4/models/access_token.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps4/models/playlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps4/routes/ps4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps4/routes/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps4/routes/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps4/views/ps4.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,83 +14,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CS591_" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps4/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps4/views/ps4.pug">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps4/views/index.pug">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps4/routes/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps4/routes/ps4.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps4/routes/search.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="48" lean-forward="true" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ps4/models/playlist.js">
+        <entry file="file://$PROJECT_DIR$/PS1/PS1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps4/bin/www">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-222" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps4/models/access_token.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="15" column="82" lean-forward="true" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -115,7 +43,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="PS4" />
       </map>
     </option>
   </component>
@@ -158,6 +86,7 @@
     <option name="width" value="1140" />
     <option name="height" value="939" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -167,52 +96,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS591" type="462c0819:PsiDirectoryNode" />
+              <item name="CS591_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591_" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS591" type="462c0819:PsiDirectoryNode" />
-              <item name="PS1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS591" type="462c0819:PsiDirectoryNode" />
+              <item name="CS591_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591_" type="462c0819:PsiDirectoryNode" />
               <item name="ps4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS591" type="462c0819:PsiDirectoryNode" />
-              <item name="ps4" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS591" type="462c0819:PsiDirectoryNode" />
-              <item name="ps4" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS591" type="462c0819:PsiDirectoryNode" />
-              <item name="ps4" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS591" type="462c0819:PsiDirectoryNode" />
-              <item name="ps4" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS591" type="462c0819:PsiDirectoryNode" />
-              <item name="ps4" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CS591" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS591" type="462c0819:PsiDirectoryNode" />
+              <item name="CS591_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591_" type="462c0819:PsiDirectoryNode" />
               <item name="ps4" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -405,15 +299,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33433000" />
+    <option name="totallyTimeSpent" value="33701000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="540" y="40" width="1140" height="939" extended-state="0" />
+    <frame x="158" y="23" width="1479" height="960" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17605005" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49955317" weight="0.3293979" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49914238" visible="true" weight="0.24965706" />
+      <window_info id="Structure" order="1" sideWeight="0.50085765" side_tool="true" visible="true" weight="0.24965706" />
+      <window_info id="Favorites" order="2" sideWeight="0.5011521" side_tool="true" weight="0.24965706" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33766234" />
@@ -423,8 +316,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3293979" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49955317" visible="true" weight="0.3293979" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49955317" visible="true" weight="0.328341" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50044686" side_tool="true" weight="0.3293979" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49955317" weight="0.3293979" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -465,13 +359,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/layout.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/layout.pug" />
     <entry file="file://$PROJECT_DIR$/PS3/ps3/views/ps3c.pug" />
     <entry file="file://$PROJECT_DIR$/../cs411-a3_/routes/login.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -480,55 +368,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/index.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS3/ps3/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS3/ps3/routes/ps3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/error.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS3/ps3/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS3/ps3/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="3" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/ps3.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/index.pug" />
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/app.js" />
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/routes/ps3.js" />
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/error.pug" />
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/routes/index.js" />
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/bin/www" />
+    <entry file="file://$PROJECT_DIR$/PS3/ps3/views/ps3.pug" />
     <entry file="file://$PROJECT_DIR$/PS1/PS3.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -541,33 +387,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PS1/PS1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ps4/routes/server.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ps4/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ps4/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ps4/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-222" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ps4/package.json" />
+    <entry file="file://$PROJECT_DIR$/ps4/app.js" />
+    <entry file="file://$PROJECT_DIR$/ps4/bin/www" />
     <entry file="file://$PROJECT_DIR$/ps4/models/access_token.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -589,20 +419,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ps4/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ps4/views/index.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ps4/routes/index.js" />
+    <entry file="file://$PROJECT_DIR$/ps4/views/index.pug" />
     <entry file="file://$PROJECT_DIR$/ps4/views/ps4.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
