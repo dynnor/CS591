@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<div style="text-align:center">
+  <h1>
+    Welcome to {{title}}!
+  </h1>
+</div>
+
+<div>
+  <p>{{info}}</p>
+</div>
+
+<div>
+  <ul>
+    <li *ngFor="let x of data">
+      <h1> {{x.state}}</h1>
+      <h1> {{x.value}}</h1>
+    </li>
+  </ul>
+</div>
