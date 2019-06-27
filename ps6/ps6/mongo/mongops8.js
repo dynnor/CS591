@@ -1,7 +1,5 @@
 //I found this code from stack overflow
 
-
-
 /*
 THe correspondind file that works with this mongo db is going to be
 ps6.js
