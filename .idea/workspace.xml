@@ -2,68 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd59b585-308b-4837-8e64-e2f156501e99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ps4/routes/ps6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps4/views/ps6.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6/config/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6/config/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6/models/access_token.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6/models/playlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6/routes/ps6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6/views/ps6.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/bs-config.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/bs-config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/karma-test-shim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/non-essential-files.osx.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/non-essential-files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/protractor.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/app/DATA.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/app/MOCK-DATA.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/app/app-routing.modules.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/enviornments/enviornment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/enviornments/enviornments.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/systemjs-angular-loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/systemjs.config.extras.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/systemjs.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/src/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps6/ps6a/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quickstart/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quickstart/src/app/quote.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quickstart/src/app/quote/qoute.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quickstart/src/app/quote/quote.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quickstart/src/app/quote/quote.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quickstart/src/config/ps6url.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ps6/ps6/mongo/mongo_spotify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ps6/ps6/mongo/mongops8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ps6/ps6/routes/ps4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ps6/ps6/views/ps4.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ps4/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/ps4/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ps4/bin/www.js" beforeDir="false" afterPath="$PROJECT_DIR$/ps4/bin/www.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/e2e/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/karma-test-shim.js" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/karma-test-shim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/src/app/DATA.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/src/app/mock.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/src/app/MOCK-DATA.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/src/app/MOCK-DATA.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/src/app/app.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps6/ps6/routes/ps6.js" beforeDir="false" afterPath="$PROJECT_DIR$/ps6/ps6/routes/ps6.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -79,87 +23,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ps6/ps6/routes/ps6.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps6/ps6/config/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps6/ps6/config/tsconfig.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps6/ps6a/src/main.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#47#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps6/ps6a/src/polyfills.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="62" column="3" selection-start-line="62" selection-start-column="3" selection-end-line="62" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps6/ps6a/src/styles.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps6/ps6a/src/test.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-              <folding>
-                <element signature="e#99#134#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps6/ps6a/src/tsconfig.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ps6/ps6a/src/enviornments/enviornments.ts">
-          <provider selected="true" editor-type-id="text-editor">
             <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ps6/ps6/mongo/mongops8.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ps6/ps6/mongo/mongo_spotify.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ps6/ps6/views/ps4.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -179,11 +74,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="tsconfig.json" />
-        <option value="Pug File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="package.json" />
         <option value="TypeScript File" />
+        <option value="Pug File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -198,17 +93,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="PS4" />
+        <entry key="$PROJECT_DIR$" value="ps6" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PS3/ps3/views/ps3b.pug" />
-        <option value="$PROJECT_DIR$/PS3/ps3/app.js" />
-        <option value="$PROJECT_DIR$/PS3/ps3/views/ps3.pug" />
-        <option value="$PROJECT_DIR$/ps4/models/access_token.js" />
         <option value="$PROJECT_DIR$/ps4/views/ps4.pug" />
         <option value="$PROJECT_DIR$/ps4/routes/index.js" />
         <option value="$PROJECT_DIR$/ps4/routes/ps4.js" />
@@ -255,7 +146,11 @@
         <option value="$PROJECT_DIR$/ps6/ps6a/src/main.ts" />
         <option value="$PROJECT_DIR$/ps6/ps6a/src/polyfills.ts" />
         <option value="$PROJECT_DIR$/ps6/ps6a/src/test.ts" />
+        <option value="$PROJECT_DIR$/ps6/ps6/views/ps4.pug" />
+        <option value="$PROJECT_DIR$/ps6/ps6/routes/ps4.js" />
         <option value="$PROJECT_DIR$/ps6/ps6/routes/ps6.js" />
+        <option value="$PROJECT_DIR$/ps6/ps6/mongo/mongo_spotify.js" />
+        <option value="$PROJECT_DIR$/ps6/ps6/mongo/mongops8.js" />
       </list>
     </option>
   </component>
@@ -322,7 +217,28 @@
               <item name="CS591_" type="462c0819:PsiDirectoryNode" />
               <item name="ps6" type="462c0819:PsiDirectoryNode" />
               <item name="ps6" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS591_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591_" type="462c0819:PsiDirectoryNode" />
+              <item name="ps6" type="462c0819:PsiDirectoryNode" />
+              <item name="ps6" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS591_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591_" type="462c0819:PsiDirectoryNode" />
+              <item name="ps6" type="462c0819:PsiDirectoryNode" />
+              <item name="ps6" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS591_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS591_" type="462c0819:PsiDirectoryNode" />
+              <item name="ps6" type="462c0819:PsiDirectoryNode" />
+              <item name="ps6" type="462c0819:PsiDirectoryNode" />
+              <item name="mongo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CS591_" type="b2602c69:ProjectViewProjectNode" />
@@ -357,7 +273,7 @@
               <item name="ps6" type="462c0819:PsiDirectoryNode" />
               <item name="ps6a" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="enviornments" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -480,7 +396,7 @@
       <workItem from="1561425304410" duration="998000" />
       <workItem from="1561426522936" duration="571000" />
       <workItem from="1561430437881" duration="2267000" />
-      <workItem from="1561481997854" duration="8109000" />
+      <workItem from="1561481997854" duration="9815000" />
     </task>
     <task id="LOCAL-00001" summary="Attempting to add files">
       <created>1558978055069</created>
@@ -608,11 +524,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561484603594</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="ps6- mostly done?">
+      <created>1561597649741</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1561597649741</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56568000" />
+    <option name="totallyTimeSpent" value="58274000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -625,7 +548,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="915" height="959" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49914238" visible="true" weight="0.40715882" />
       <window_info id="Structure" order="1" sideWeight="0.50085765" side_tool="true" weight="0.24965706" />
@@ -633,11 +555,11 @@
       <window_info anchor="bottom" id="TypeScript" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.4984051" weight="0.3298731" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49909583" visible="true" weight="0.33564013" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49909583" weight="0.33564013" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39905548" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.3283582" />
+      <window_info anchor="bottom" id="TODO" order="7" visible="true" weight="0.32756633" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49920255" weight="0.32871974" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4952153" weight="0.32641292" />
@@ -663,34 +585,10 @@
     <MESSAGE value="ps5- Spotify API generating playlists with angular take 40" />
     <MESSAGE value="ps5- with a new commit" />
     <MESSAGE value="ps5- done" />
-    <option name="LAST_COMMIT_MESSAGE" value="ps5- done" />
+    <MESSAGE value="ps6- mostly done?" />
+    <option name="LAST_COMMIT_MESSAGE" value="ps6- mostly done?" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/quickstart/src/systemjs.config.extras.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/app/mock/mock.ts" />
-    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app-routing.modules.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/quickstart/src/enviornments/enviornments.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -793,13 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ps4/views/ps4.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -996,13 +887,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ps6/ps6/config/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ps6/ps6/config/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1010,10 +894,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ps4/views/ps4.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps6/ps6/routes/ps4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps6/ps6/config/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps6/ps6/views/ps4.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ps6/ps6/routes/ps6.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps6/ps6/mongo/mongo_spotify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps6/ps6/mongo/mongops8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
